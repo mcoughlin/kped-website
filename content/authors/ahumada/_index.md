@@ -29,3 +29,5 @@ user_groups:
 - "Grad Students"
 ---
 
+Tomás Ahumada is a third year graduate student at the University of Maryland. Originally from Chile, Tomás now works with Dr. Leo Singer (NASA) searching for the optical counterpart to gravitational waves and short gamma ray bursts using the Zwicky Transient Facility (ZTF). Tomás uses KPED to photometrically monitor the evolution of ZTF transients that are spatially and temporarily consistent with LIGO/Virgo or Fermi triggers. 
+

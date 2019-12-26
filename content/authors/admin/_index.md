@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kitt Peak EMCCD Demonstrator
 
 # Username (this should match the folder name)
 authors:
@@ -10,50 +10,26 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Instrument on the Kitt Peak 2.1m Telescope
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Developed by Caltech Optical Observatories
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include white dwarf binaries and other gravitational-wave sources identified by the Zwicky Transient Facility.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 'mailto:cough052@umn.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mcoughlin/kp84
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,10 +42,14 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+After the significant success of the Robo-AO program on the Kitt Peak 84 inch telescope, a program which uses adaptive optics to take images of quality comparable to what is done in space, there is a new camera on the telescope. 
+The Kitt Peak Electron Multiplying CCD (EMCCD) demonstrator (KPED), which is a simple instrument consisting of a EMCCD and a filter wheel, which will do rapid and sensitive photometric measurements of several classes of objects.
+EMCCDs use a high gain, or electron multiplication (EM) register, which is a second stage of readout that amplifies electrons in a process known as avalanche multiplication. At the cost of pixel charge capacity, much higher signal-to-noise ratios are possible above and beyond conventional CCD or CMOS detectors.
+The goal for the system is to allow for high cadence photometry with a large field of view with seeing-limited image quality. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+* {{< staticref "files/kped.pptx" "newtab" >}}Summary Presentation{{< /staticref >}}
+
+{{< figure src="files/movie.gif" >}}
+Movie of KPED observations of 6.9 minute white dwarf binary (sped up)

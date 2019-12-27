@@ -5,6 +5,12 @@ share: false
 
 ---
 
+## Diagrams of the telescope and images
+{{< gallery album="instrument-images" >}}
+
+## KPED Instrument Paper
+* {{< staticref "https://arxiv.org/abs/1901.04625" "newtab" >}}Arxiv Link{{< /staticref >}}
+
 ## Instrument
 ### Hardware
 1. EMCCD – Andor iXon 888

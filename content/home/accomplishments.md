@@ -2,10 +2,10 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
+active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "Publications using KPED"
+title = "In The Press"
 subtitle = ""
 
 # Date format
@@ -19,24 +19,17 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "Orbital Decay in a 20 Minute Orbital Period Detached Binary with a Hydrogen Poor Low Mass White Dwarf"
-  url = "https://arxiv.org/abs/1910.11389"
-  date_start = "2019-10-24"
+  title = "Found: fastest eclipsing binary, a valuable target for gravitational wave studies"
+  url = "noao.edu/news/2019/pr1907.php"
+  date_start = "2019-07-24"
   date_end = ""
-  description = "Published in ApJL: https://arxiv.org/abs/1910.11389"
+  description = "Highlight of Kitt Peak 2.1m and KPED's role in 6.9 minute discovery"
 
 [[item]]
-  title = "Discovery and Characterization of 6.9 minute period white dwarf binary"
-  url = "https://arxiv.org/abs/1907.11291"
-  date_start = "2019-07-25"
+  title = "Scientists Spot Two Dead Stars Locked in a Dizzying Dance"
+  url = "https://www.space.com/dead-stars-white-dwarfs-dizzying-orbit.html"
+  date_start = "2019-07-24"
   date_end = ""
-  description = "Published in Nature: https://arxiv.org/abs/1907.11291"
-
-[[item]]
-  title = "GROWTH on S190425z: Searching thousands of square degrees to identify an optical or infrared counterpart to a binary neutron star merger with the Zwicky Transient Facility and Palomar Gattini IR"
-  url = "https://arxiv.org/abs/1907.12645"
-  date_start = "2019-07-29"
-  date_end = ""
-  description = "Published in ApJL: https://arxiv.org/abs/1907.12645"
+  description = "6.9 minute highlight at space.com"
 
 +++

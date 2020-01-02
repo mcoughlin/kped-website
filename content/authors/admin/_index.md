@@ -49,6 +49,10 @@ The Kitt Peak Electron Multiplying CCD (EMCCD) demonstrator (KPED), which is a s
 EMCCDs use a high gain, or electron multiplication (EM) register, which is a second stage of readout that amplifies electrons in a process known as avalanche multiplication. At the cost of pixel charge capacity, much higher signal-to-noise ratios are possible above and beyond conventional CCD or CMOS detectors.
 The goal for the system is to allow for high cadence photometry with a large field of view with seeing-limited image quality. 
 
+The KPED team thanks the National Science Foundation and the National Optical Astronomical Observatory for making the Kitt Peak 2.1-m telescope available. We thank the observatory staff at Kitt Peak for their efforts to assist Robo-AO KP operations.
+The KPED team thanks the National Science Foundation, the National Optical Astronomical Observatory and the Murty family for support in the building and operation of KPED.
+In addition, they thank the CHIMERA project for use of the EMCCD.
+
 * {{< staticref "files/kped.pptx" "newtab" >}}Summary Presentation{{< /staticref >}}
 
 {{< figure src="files/movie.gif" >}}

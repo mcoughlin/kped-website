@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Kevin Burdge
+title: Kevin Burdge
 
 # Username (this should match the folder name)
 authors:

@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Tomas Ahumada
+title: Tomas Ahumada
 
 # Username (this should match the folder name)
 authors:

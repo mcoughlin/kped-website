@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Reed Riddle
+title: Reed Riddle
 
 # Username (this should match the folder name)
 authors:

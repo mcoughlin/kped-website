@@ -5,5 +5,5 @@ share: false
 
 ---
 
-## Photos of the Telescope
+## Photos of the Telescope, KPED and its predecessor, RoboAO
 {{< gallery album="telescope-images" >}}

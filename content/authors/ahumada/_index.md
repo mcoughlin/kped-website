@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Observer
+role: GWs/GRBs
 
 # Organizations/Affiliations
 organizations:

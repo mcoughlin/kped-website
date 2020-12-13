@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Observer
+role: Young Supernovae
 
 # Organizations/Affiliations
 organizations:

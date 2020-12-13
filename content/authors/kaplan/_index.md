@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Observer
+role: Compact Binaries
 
 # Organizations/Affiliations
 organizations:

@@ -21,12 +21,12 @@ organizations:
 bio: My research interests include white dwarf binaries and other gravitational-wave sources identified by the Zwicky Transient Facility.
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cough052@caltech.edu"
+email: "cough052@umn.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Principal Investigators"
+- "Instrument Team"
 ---
 
 Michael Coughlin has been fortunate to work on a variety of projects related to astrophysics.

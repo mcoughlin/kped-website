@@ -26,7 +26,7 @@ email: "srk@astro.caltech.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- "Principal Investigators"
+- "Instrument Team"
 ---
 
 Over the past nearly two decades, along with my current students, post-doctoral fellows and research colleagues , and former students, post-doctoral scholars and long term collaborators , I have worked on millisecond pulsars, old neutron stars, young neutron stars, brown dwarfs, soft gamma-ray repeaters, supernova remnants, gamma-ray bursts, new types of optical transients and instrumentation. My current focus is the public-private Zwicky Transient Facility (ZTF), STARE, a search for Galactic versions of Fast Radio Bursts (at OVRO, Palomar and other locations) and Kitt Peak EMCCD Demonstrator. In development is Spectral Energy Distribution Machine version 2 (SEDMv2).
